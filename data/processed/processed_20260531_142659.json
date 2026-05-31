@@ -1,0 +1,15 @@
+{
+    "latitude": -6.1754,
+    "longitude": 106.8272,
+    "location_name": "Pecenongan",
+    "country": "ID",
+    "temperature": 30.91,
+    "feels_like": 37.91,
+    "humidity": 77,
+    "pressure": 1009,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "wind_speed": 4.12,
+    "visibility": 8000,
+    "recorded_at": "2026-05-31T14:26:59.887137"
+}
